@@ -11,7 +11,7 @@
     "delete_account": "계정 삭제",
     "discord_server": "디스코드 커뮤니티",
     "donate": "후원",
-    "donate_msg": "개발자에게 후원하고 특별한 보상을 얻어보세요<3",
+    "donate_msg": "개발자에게 후원하고 찜 목록 안내를 받아보세요<3",
     "fag": "무료 요원",
     "fetching.balances": "잔액 불러오는 중...",
     "fetching.entitlements_token": "자격 토큰 불러오는 중...",
@@ -79,19 +79,27 @@
     "wishlist_notification": "갖고싶은 스킨 알림",
     "wishlist_add": "갖고싶은 스킨에 추가하기",
     "wishlist": {
-        "remove": "갖고싶은 스킨에서 삭제하기",
+        "remove": "찜 목록에서 삭제하기",
         "notification": {
-            "name": "갖고싶은 스킨 알림",
-            "info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다."
+            "name": "찜 목록 알림",
+            "info": "찜 해놓은 상품이 상점에 나온다면 알림을 받습니다.",
+            "error": "상점을 확인하는 중 오류가 발생했습니다",
+            "no_hit": "운이 없군요 :v 찜해놓은 상품이 없습니다.",
+            "enabled": "알림 활성화",
+            "disabled": "알림 비활성화",
+            "hit": "{{displayname}} 상품이 상점에 등장했습니다!"
         },
-        "add": "갖고싶은 스킨에 추가하기"
+        "add": "찜 목록에 추가하기",
+        "name": "찜 목록"
     },
     "wishlist_remove": "갖고싶은 스킨에서 삭제하기",
-    "gallery": "가지고있는 스킨",
+    "gallery": "보유중인 상품",
     "wishlist_notification_info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다.",
     "purchase": {
         "restore": "환불하기",
         "error": "오류가 발생했습니다",
         "success": "VShop을 지원해주셔서 감사합니다:)"
-    }
+    },
+    "donate_unlocked": "후원 특전이 해금 되었습니다.",
+    "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다."
 }
