@@ -76,7 +76,15 @@
     "welcome_back": "Tekrar hoş geldiniz",
     "welcome_back_info": "Oturumunuzu açarken lütfen bekleyiniz.",
     "xp": "XP",
-    "wishlist": "İstek listesi",
+    "wishlist": {
+        "add": "İstek listene ekle",
+        "remove": "İstek listenden kaldır",
+        "notification": {
+            "info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
+            "name": "İstek listesi bildirimi"
+        },
+        "name": "İstek listesi"
+    },
     "wishlist_add": "İstek listene ekle",
     "wishlist_remove": "İstek listenden kaldır",
     "gallery": "Galeri",
