@@ -72,6 +72,7 @@
   "xp": "XP",
   "donate": "Donate",
   "donate_msg": "Support the development and get access to Wishlist Notifications by donating any amount. Thanks a lot <3",
+  "donate_unlocked": "You've unlocked donator perks.",
   "okay": "Okay",
   "next": "Next",
   "back": "back",
@@ -90,12 +91,15 @@
       "info": "Get a notication when your wishlisted item is in the shop.",
       "hit": "The {{displayname}} is in your Shop!",
       "no_hit": "No luck today: No wishlisted skin is in your shop.",
-      "error": "An error occurred while checking your shop"
+      "error": "An error occurred while checking your shop",
+      "enabled": "Notifications enabled",
+      "disabled": "Notifications disabled"
     }
   },
   "purchase": {
     "restore": "Restore Purchases",
     "success": "Thank you for supporting VShop. Enjoy your perks :)",
     "error": "An error occurred"
-  }
+  },
+  "disclaimer": "VShop is not endorsed by Riot Games in any way."
 }
