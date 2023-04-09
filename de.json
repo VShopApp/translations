@@ -76,7 +76,15 @@
     "welcome_back": "Willkommen zurück",
     "welcome_back_info": "Setze dich bequem hin, während wir dich wieder einloggen.",
     "xp": "XP",
-    "wishlist": "Wunschliste",
+    "wishlist": {
+        "add": "Zur Wunschliste hinzufügen",
+        "remove": "Von Wunschliste entfernen",
+        "notification": {
+            "info": "Erhalte eine Benachrichtigung, wenn dein Wunschlistenartikel im Shop ist.",
+            "name": "Wunschliste Benachrichtigung"
+        },
+        "name": "Wunschliste"
+    },
     "wishlist_add": "Zur Wunschliste hinzufügen",
     "gallery": "Galerie",
     "wishlist_notification": "Wunschliste Benachrichtigung",
