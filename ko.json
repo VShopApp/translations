@@ -78,7 +78,14 @@
     "xp": "경험치",
     "wishlist_notification": "갖고싶은 스킨 알림",
     "wishlist_add": "갖고싶은 스킨에 추가하기",
-    "wishlist": "갖고싶은 스킨",
+    "wishlist": {
+        "remove": "갖고싶은 스킨에서 삭제하기",
+        "notification": {
+            "name": "갖고싶은 스킨 알림",
+            "info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다."
+        },
+        "add": "갖고싶은 스킨에 추가하기"
+    },
     "wishlist_remove": "갖고싶은 스킨에서 삭제하기",
     "gallery": "가지고있는 스킨",
     "wishlist_notification_info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다.",
