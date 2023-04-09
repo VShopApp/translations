@@ -81,7 +81,10 @@
         "remove": "İstek listenden kaldır",
         "notification": {
             "info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
-            "name": "İstek listesi bildirimi"
+            "name": "İstek listesi bildirimi",
+            "hit": "{{displayname}} adlı skin şuan mağazanda!",
+            "no_hit": "Bugün şanslı değilsin: İstek listendeki hiç bir skin mağazanda değil.",
+            "error": "Mağazanızı kontrol ederken bir hata oluştu"
         },
         "name": "İstek listesi"
     },
