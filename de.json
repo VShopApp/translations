@@ -81,7 +81,12 @@
         "remove": "Von Wunschliste entfernen",
         "notification": {
             "info": "Erhalte eine Benachrichtigung, wenn dein Wunschlistenartikel im Shop ist.",
-            "name": "Wunschliste Benachrichtigung"
+            "name": "Wunschliste Benachrichtigung",
+            "hit": "{{Displayname}} ist in deinem Shop!",
+            "disabled": "Benachrichtigungen deaktiviert",
+            "no_hit": "Heute kein Glück: Kein Skin auf der Wunschliste ist in deinem Shop.",
+            "error": "Bei der Überprüfung deines Shops ist ein Fehler aufgetreten",
+            "enabled": "Benachrichtigungen aktiviert"
         },
         "name": "Wunschliste"
     },
@@ -94,5 +99,7 @@
         "restore": "Käufe wiederherstellen",
         "success": "Herzlichen Dank, dass du VShop unterstützt. Genieße deine Vorteile :)",
         "error": "Ein Fehler ist aufgetreten"
-    }
+    },
+    "donate_unlocked": "Du hast Spendervorteile freigeschaltet.",
+    "disclaimer": "VShop wird in keinster Weise von Riot Games unterstützt."
 }
