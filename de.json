@@ -82,7 +82,7 @@
         "notification": {
             "info": "Erhalte eine Benachrichtigung, wenn dein Wunschlistenartikel im Shop ist.",
             "name": "Wunschliste Benachrichtigung",
-            "hit": "{{Displayname}} ist in deinem Shop!",
+            "hit": "{{displayname}} ist in deinem Shop!",
             "disabled": "Benachrichtigungen deaktiviert",
             "no_hit": "Heute kein Glück: Kein Skin auf der Wunschliste ist in deinem Shop.",
             "error": "Bei der Überprüfung deines Shops ist ein Fehler aufgetreten",
