@@ -84,7 +84,9 @@
             "name": "İstek listesi bildirimi",
             "hit": "{{displayname}} adlı skin şuan mağazanda!",
             "no_hit": "Bugün şanslı değilsin: İstek listendeki hiç bir skin mağazanda değil.",
-            "error": "Mağazanızı kontrol ederken bir hata oluştu"
+            "error": "Mağazanızı kontrol ederken bir hata oluştu",
+            "enabled": "Bildirimler aktif edildi",
+            "disabled": "Bildirimler devre dışı bırakıldı"
         },
         "name": "İstek listesi"
     },
@@ -97,5 +99,7 @@
         "success": "VShop'u desteklediğiniz için teşekkürler. Avantajlarının tadını çıkar :)",
         "error": "Bir hata oluştu"
     },
-    "wishlist_notification_info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al."
+    "wishlist_notification_info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
+    "donate_unlocked": "Bağışcı özellikleri aktif edildi.",
+    "disclaimer": "VShop, Riot Games tarafından hiçbir şekilde desteklenmemektedir."
 }
