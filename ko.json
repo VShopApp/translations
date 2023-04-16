@@ -87,7 +87,8 @@
             "no_hit": "운이 없군요 :v 찜해놓은 상품이 없습니다.",
             "enabled": "알림 활성화",
             "disabled": "알림 비활성화",
-            "hit": "{{displayname}} 상품이 상점에 등장했습니다!"
+            "hit": "{{displayname}} 상품이 상점에 등장했습니다!",
+            "no_permission": "알림을 보내기 위한 권한이 없습니다!"
         },
         "add": "찜 목록에 추가하기",
         "name": "찜 목록"
