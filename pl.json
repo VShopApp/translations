@@ -94,7 +94,8 @@
             "no_hit": "Dzisiaj nie ma szczęścia: w Twoim sklepie nie ma żadnej skórki z listy życzeń.",
             "error": "Wystąpił błąd podczas sprawdzania Twojego sklepu",
             "enabled": "Powiadomienia włączone",
-            "disabled": "Powiadomienia wyłączone"
+            "disabled": "Powiadomienia wyłączone",
+            "no_permission": "Nie mamy uprawnień do wysyłania Ci powiadomień!"
         }
     },
     "disclaimer": "VShop nie jest w żaden sposób wspierany przez Riot Games."
