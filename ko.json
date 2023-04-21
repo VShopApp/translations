@@ -84,7 +84,7 @@
             "name": "찜 목록 알림",
             "info": "찜 해놓은 상품이 상점에 나온다면 알림을 받습니다.",
             "error": "상점을 확인하는 중 오류가 발생했습니다",
-            "no_hit": "운이 없군요 :v 찜해놓은 상품이 없습니다.",
+            "no_hit": "운이 없군요 :v 찜해놓은 상품이 상점에 없습니다.",
             "enabled": "알림 활성화",
             "disabled": "알림 비활성화",
             "hit": "{{displayname}} 상품이 상점에 등장했습니다!",
@@ -94,7 +94,7 @@
         "name": "찜 목록"
     },
     "wishlist_remove": "갖고싶은 스킨에서 삭제하기",
-    "gallery": "보유중인 상품",
+    "gallery": "갤러리",
     "wishlist_notification_info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다.",
     "purchase": {
         "restore": "환불하기",
@@ -102,5 +102,5 @@
         "success": "VShop을 지원해주셔서 감사합니다:)"
     },
     "donate_unlocked": "후원 특전이 해금 되었습니다.",
-    "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다."
+    "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다\nRiot Games, Valorant 및 모든 관련자산은 Riot Games, Inc의 상표 또는 등록 상표입니다."
 }
