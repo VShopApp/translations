@@ -86,7 +86,8 @@
             "info": "Nhận thông báo khi skin trong wishlist trong shop của bạn.",
             "no_hit": "Hôm nay bạn không may rồi: Không có skin trong wishlist trong shop của bạn.",
             "error": "Một sự cố đã xảy ra khi kiểm tra shop của bạn",
-            "enabled": "Thông báo đã được bật"
+            "enabled": "Thông báo đã được bật",
+            "no_permission": "Chúng tôi chưa có quyền gửi thông báo cho bạn!"
         },
         "add": "Thêm vào wishlist",
         "name": "Danh sách skin mong muốn (Wishlist)"
@@ -96,6 +97,6 @@
         "success": "Cảm ơn bạn vì đã giúp đỡ VShop. Hãy tận hưởng các đặc quyền của bạn :)",
         "error": "Đã có sự cố"
     },
-    "gallery": "Ảnh",
-    "disclaimer": "VShop không được tài trơ bởi Riot Games."
+    "gallery": "Thư viện",
+    "disclaimer": "VShop không được tài trơ bởi Riot Games.\nRiot Games, Valorant và tất cả tài sản liên quan là nhãn hiệu hoặc nhãn hiệu đã đăng ký của Riot Games, Inc."
 }
