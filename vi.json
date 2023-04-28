@@ -98,5 +98,9 @@
         "error": "Đã có sự cố"
     },
     "gallery": "Thư viện",
-    "disclaimer": "VShop không được tài trơ bởi Riot Games.\nRiot Games, Valorant và tất cả tài sản liên quan là nhãn hiệu hoặc nhãn hiệu đã đăng ký của Riot Games, Inc."
+    "disclaimer": "VShop không được tài trơ bởi Riot Games.\nRiot Games, Valorant và tất cả tài sản liên quan là nhãn hiệu hoặc nhãn hiệu đã đăng ký của Riot Games, Inc.",
+    "copy_app_user_id": "Sao chép ID người dùng",
+    "languages": {
+        "es": "Tiếng Tây Ban Nha"
+    }
 }
