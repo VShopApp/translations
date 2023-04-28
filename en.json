@@ -103,5 +103,6 @@
     "success": "Thank you for supporting VShop. Enjoy your perks :)",
     "error": "An error occurred"
   },
-  "disclaimer": "VShop is not endorsed by Riot Games in any way.\nRiot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc."
+  "disclaimer": "VShop is not endorsed by Riot Games in any way.\nRiot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.",
+  "copy_app_user_id": "Copy App User ID"
 }
