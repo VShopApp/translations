@@ -86,7 +86,8 @@
             "no_hit": "Bugün şanslı değilsin: İstek listendeki hiç bir skin mağazanda değil.",
             "error": "Mağazanızı kontrol ederken bir hata oluştu",
             "enabled": "Bildirimler aktif edildi",
-            "disabled": "Bildirimler devre dışı bırakıldı"
+            "disabled": "Bildirimler devre dışı bırakıldı",
+            "no_permission": "Size bildirim göndermek için gereken iznimiz yok!"
         },
         "name": "İstek listesi"
     },
@@ -101,5 +102,9 @@
     },
     "wishlist_notification_info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
     "donate_unlocked": "Bağışcı özellikleri aktif edildi.",
-    "disclaimer": "VShop, Riot Games tarafından hiçbir şekilde desteklenmemektedir."
+    "disclaimer": "VShop, Riot Games tarafından hiçbir şekilde desteklenmemektedir.\nRiot Games, Valorant ve tüm ilişkili mülkler, Riot Games, Inc.'in ticari markaları veya tescilli ticari markalarıdır.",
+    "languages": {
+        "es": "İspanyolca"
+    },
+    "copy_app_user_id": "Uygulama kullanıcı numarasını kopyala"
 }
