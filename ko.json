@@ -102,5 +102,9 @@
         "success": "VShop을 지원해주셔서 감사합니다:)"
     },
     "donate_unlocked": "후원 특전이 해금 되었습니다.",
-    "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다\nRiot Games, Valorant 및 모든 관련자산은 Riot Games, Inc의 상표 또는 등록 상표입니다."
+    "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다\nRiot Games, Valorant 및 모든 관련자산은 Riot Games, Inc의 상표 또는 등록 상표입니다.",
+    "copy_app_user_id": "앱 유저 ID 복사",
+    "languages": {
+        "es": "스페인어"
+    }
 }
