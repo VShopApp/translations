@@ -17,7 +17,7 @@
     "fetching.entitlements_token": "Pobieranie tokenu uprawnień...",
     "fetching.offers": "Pobieranie ofert...",
     "fetching.progress": "Pobieranie postępów...",
-    "fetching.skins": "Pobieranie skórek...\n",
+    "fetching.skins": "Pobieranie skórek...",
     "fetching.storefront": "Pobieranie sklepu...",
     "fetching.user_id": "Pobieranie identyfikatora użytkownika...",
     "fetching.username": "Pobieranie nicku...",
@@ -98,5 +98,8 @@
             "no_permission": "Nie mamy uprawnień do wysyłania Ci powiadomień!"
         }
     },
-    "disclaimer": "VShop nie jest w żaden sposób wspierany przez Riot Games."
+    "disclaimer": "VShop nie jest w żaden sposób wspierany przez Riot Games.",
+    "languages": {
+        "es": "Hiszpański"
+    }
 }
