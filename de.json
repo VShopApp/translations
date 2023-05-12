@@ -101,5 +101,8 @@
         "error": "Ein Fehler ist aufgetreten"
     },
     "donate_unlocked": "Du hast Spendervorteile freigeschaltet.",
-    "disclaimer": "VShop wird in keinster Weise von Riot Games unterstützt."
+    "disclaimer": "VShop wird in keinster Weise von Riot Games unterstützt.",
+    "languages": {
+        "es": "Spanisch"
+    }
 }
