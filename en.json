@@ -17,7 +17,8 @@
     "skins": "Fetching skins...",
     "storefront": "Fetching storefront...",
     "user_id": "Fetching user id...",
-    "username": "Fetching username..."
+    "username": "Fetching username...",
+    "donator": "Fetching donator status..."
   },
   "info": "Info",
   "language": "Language",
@@ -104,5 +105,7 @@
     "error": "An error occurred"
   },
   "disclaimer": "VShop is not endorsed by Riot Games in any way.\nRiot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.",
-  "copy_app_user_id": "Copy App User ID"
+  "copy_riot_id": "Copy Riot Account ID",
+  "amount": "Amount",
+  "invalid_amount": "Invalid amount ($2 or more)."
 }
