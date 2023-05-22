@@ -107,5 +107,13 @@
   "disclaimer": "VShop is not endorsed by Riot Games in any way.\nRiot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.",
   "copy_riot_id": "Copy Riot Account ID",
   "amount": "Amount",
-  "invalid_amount": "Invalid amount ($2 or more)."
+  "invalid_amount": "Minimum amount is {{amount}}.",
+  "screenshot_mode": "Screenshot Mode",
+  "update": {
+    "available": {
+      "title": "Update available",
+      "description": "A newer version of VShop is available to download"
+    },
+    "download_github": "Download on GitHub"
+  }
 }
