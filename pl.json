@@ -98,8 +98,22 @@
             "no_permission": "Nie mamy uprawnień do wysyłania Ci powiadomień!"
         }
     },
-    "disclaimer": "VShop nie jest w żaden sposób wspierany przez Riot Games.",
+    "disclaimer": "VShop nie jest w żaden sposób wspierany przez Riot Games.\nRiot Games, Valorant i wszystkie powiązane właściwości są znakami towarowymi lub zastrzeżonymi znakami towarowymi Riot Games, Inc.",
     "languages": {
         "es": "Hiszpański"
-    }
+    },
+    "update": {
+        "available": {
+            "title": "Dostępna aktualizacja",
+            "description": "Nowsza wersja VShop jest dostępna do pobrania"
+        },
+        "download_github": "Pobierz na GitHubie"
+    },
+    "screenshot_mode": "Tryb zrzutu ekranu",
+    "fetching": {
+        "donator": "Pobieranie statusu dawcy..."
+    },
+    "copy_riot_id": "Skopiuj identyfikator konta Riot",
+    "amount": "Kwota",
+    "invalid_amount": "Minimalna kwota to {{amount}}."
 }
