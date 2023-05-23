@@ -86,7 +86,8 @@
             "disabled": "Benachrichtigungen deaktiviert",
             "no_hit": "Heute kein Glück: Kein Skin auf der Wunschliste ist in deinem Shop.",
             "error": "Bei der Überprüfung deines Shops ist ein Fehler aufgetreten",
-            "enabled": "Benachrichtigungen aktiviert"
+            "enabled": "Benachrichtigungen aktiviert",
+            "no_permission": "Wir haben nicht die Erlaubnis, dir Benachrichtigungen zu schicken!"
         },
         "name": "Wunschliste"
     },
@@ -97,12 +98,26 @@
     "wishlist_notification_info": "Erhalte eine Benachrichtigung, wenn dein Wunschlistenartikel im Shop ist.",
     "purchase": {
         "restore": "Käufe wiederherstellen",
-        "success": "Herzlichen Dank, dass du VShop unterstützt. Genieße deine Vorteile :)",
+        "success": "Deine Bestellung wird bearbeitet. Ein Neustart der App ist erforderlich, um deine Vorteile zu sehen.",
         "error": "Ein Fehler ist aufgetreten"
     },
     "donate_unlocked": "Du hast Spendervorteile freigeschaltet.",
-    "disclaimer": "VShop wird in keinster Weise von Riot Games unterstützt.",
+    "disclaimer": "VShop wird in keiner Weise von Riot Games unterstützt.\nRiot Games, Valorant und alle damit verbundenen Elemente sind Marken oder eingetragene Marken von Riot Games, Inc.",
     "languages": {
         "es": "Spanisch"
-    }
+    },
+    "screenshot_mode": "Screenshot-Modus",
+    "update": {
+        "available": {
+            "title": "Update verfügbar",
+            "description": "Eine neuere Version von VShop steht zum Download bereit"
+        },
+        "download_github": "Herunterladen von GitHub"
+    },
+    "fetching": {
+        "donator": "Spenderstatus wird abgerufen..."
+    },
+    "copy_riot_id": "Riot-Konto-ID kopieren",
+    "invalid_amount": "Der Mindestbetrag ist {{amount}}.",
+    "amount": "Betrag"
 }
