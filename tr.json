@@ -97,7 +97,7 @@
     "wishlist_notification": "İstek listesi bildirimi",
     "purchase": {
         "restore": "Satın alımları geri yükle",
-        "success": "VShop'u desteklediğiniz için teşekkürler. Avantajlarının tadını çıkar :)",
+        "success": "Satın alma işleminiz işleniyor. Ayrıcalıklarınızdan faydalanmak için uygulamayı yeniden başlatmanız gerekiyor.",
         "error": "Bir hata oluştu"
     },
     "wishlist_notification_info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
@@ -106,5 +106,19 @@
     "languages": {
         "es": "İspanyolca"
     },
-    "copy_app_user_id": "Uygulama kullanıcı numarasını kopyala"
+    "copy_app_user_id": "Uygulama kullanıcı numarasını kopyala",
+    "fetching": {
+        "donator": "Bağış durumunuz kontrol ediliyor..."
+    },
+    "screenshot_mode": "Ekran görüntüsü modu",
+    "update": {
+        "available": {
+            "title": "Güncelleme mevcut",
+            "description": "VShop'un indirilebilir daha yeni bir sürümü mevcut"
+        },
+        "download_github": "GitHub'dan indir"
+    },
+    "copy_riot_id": "Riot hesap kimliğini kopyala",
+    "amount": "Miktar",
+    "invalid_amount": "Minimum miktar {{amount}}."
 }
