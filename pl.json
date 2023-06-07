@@ -79,7 +79,7 @@
     "gallery": "Galeria",
     "purchase": {
         "restore": "Przywróć zakupy",
-        "success": "Dziękujemy za wsparcie VShop. Korzystaj z przywilejów :)",
+        "success": "Twoje zamówienie jest przetwarzane. Aby zobaczyć swoje bonusy, wymagane jest ponowne uruchomienie aplikacji.",
         "error": "Wystąpił błąd"
     },
     "donate_unlocked": "Odblokowałeś gratisy wspierającego.",
