@@ -7,7 +7,6 @@
     "credits": "크레딧",
     "credits_techchrism": "발로란트 API 문서",
     "credits_valorantapi": "비공식 발로란트 API",
-    "danger_zone": "위험 구역",
     "delete_account": "계정 삭제",
     "discord_server": "디스코드 커뮤니티",
     "donate": "후원",
@@ -45,7 +44,6 @@
     "links": "링크",
     "login": "로그인",
     "logout": "로그아웃",
-    "lvl": "레벨",
     "never_show_again": "다시 보지 않기",
     "next": "다음",
     "nightmarket": "야시장",
@@ -76,7 +74,6 @@
     "welcome_back": "다시 오신것을 환영합니다",
     "welcome_back_info": "다시 로그인 하는 동안 잠시 기다려 주세요.",
     "xp": "경험치",
-    "wishlist_notification": "갖고싶은 스킨 알림",
     "wishlist_add": "갖고싶은 스킨에 추가하기",
     "wishlist": {
         "remove": "찜 목록에서 삭제하기",
@@ -93,9 +90,7 @@
         "add": "찜 목록에 추가하기",
         "name": "찜 목록"
     },
-    "wishlist_remove": "갖고싶은 스킨에서 삭제하기",
     "gallery": "갤러리",
-    "wishlist_notification_info": "갖고싶은 스킨이 상점에 뜬다면 알림을 받습니다.",
     "purchase": {
         "restore": "환불하기",
         "error": "오류가 발생했습니다",
@@ -103,7 +98,6 @@
     },
     "donate_unlocked": "후원 특전이 해금 되었습니다.",
     "disclaimer": "VShop은 라이엇 게임즈의 허가를 받지 않았습니다\nRiot Games, Valorant 및 모든 관련자산은 Riot Games, Inc의 상표 또는 등록 상표입니다.",
-    "copy_app_user_id": "앱 유저 ID 복사",
     "languages": {
         "es": "스페인어"
     }

@@ -7,7 +7,6 @@
     "credits": "Emeği geçenler",
     "credits_techchrism": "Valorant API belgeleri",
     "credits_valorantapi": "resmi olmayan VALORANT API'si",
-    "danger_zone": "Tehlikeli alan",
     "delete_account": "Hesabı sil",
     "discord_server": "Discord sunucusu",
     "donate": "Bağış",
@@ -45,7 +44,6 @@
     "links": "Bağlantılar",
     "login": "Giriş yap",
     "logout": "Çıkış yap",
-    "lvl": "Seviye",
     "never_show_again": "Tekrar gösterme",
     "next": "Sonraki",
     "nightmarket": "Gece pazarı",
@@ -91,22 +89,18 @@
         },
         "name": "İstek listesi"
     },
-    "wishlist_add": "İstek listene ekle",
     "wishlist_remove": "İstek listenden kaldır",
     "gallery": "Galeri",
-    "wishlist_notification": "İstek listesi bildirimi",
     "purchase": {
         "restore": "Satın alımları geri yükle",
         "success": "Satın alma işleminiz işleniyor. Ayrıcalıklarınızdan faydalanmak için uygulamayı yeniden başlatmanız gerekiyor.",
         "error": "Bir hata oluştu"
     },
-    "wishlist_notification_info": "İstek listenizdeki bir ürün, mağazana gelince bir bildirim al.",
     "donate_unlocked": "Bağışcı özellikleri aktif edildi.",
     "disclaimer": "VShop, Riot Games tarafından hiçbir şekilde desteklenmemektedir.\nRiot Games, Valorant ve tüm ilişkili mülkler, Riot Games, Inc.'in ticari markaları veya tescilli ticari markalarıdır.",
     "languages": {
         "es": "İspanyolca"
     },
-    "copy_app_user_id": "Uygulama kullanıcı numarasını kopyala",
     "fetching": {
         "donator": "Bağış durumunuz kontrol ediliyor..."
     },

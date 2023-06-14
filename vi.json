@@ -7,7 +7,6 @@
     "credits": "Danh đề",
     "credits_techchrism": "Thư mục API của Valorant",
     "credits_valorantapi": "API không chính thức của Valorant",
-    "danger_zone": "Vùng nguy hiểm",
     "delete_account": "Xóa tài khoản",
     "discord_server": "Kênh Discord",
     "donate": "Quyên góp",
@@ -45,7 +44,6 @@
     "links": "Liên kết",
     "login": "Đăng nhập",
     "logout": "Đăng xuất",
-    "lvl": "Cấp",
     "never_show_again": "Không hiển thị nữa",
     "next": "Tiếp theo",
     "nightmarket": "Chợ Đêm",
@@ -99,7 +97,6 @@
     },
     "gallery": "Thư viện",
     "disclaimer": "VShop không được tài trơ bởi Riot Games.\nRiot Games, Valorant và tất cả tài sản liên quan là nhãn hiệu hoặc nhãn hiệu đã đăng ký của Riot Games, Inc.",
-    "copy_app_user_id": "Sao chép ID người dùng",
     "languages": {
         "es": "Tiếng Tây Ban Nha"
     },

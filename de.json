@@ -7,7 +7,6 @@
     "credits": "Credits",
     "credits_techchrism": "Valorant API Dokumentation",
     "credits_valorantapi": "inoffizielle Valorant API",
-    "danger_zone": "Gefahrenzone",
     "delete_account": "Konto löschen",
     "discord_server": "Discord Server",
     "donate": "Spenden",
@@ -45,7 +44,6 @@
     "links": "Links",
     "login": "Anmelden",
     "logout": "Abmelden",
-    "lvl": "Lvl",
     "never_show_again": "Nicht mehr anzeigen",
     "next": "Weiter",
     "nightmarket": "Nachtmarkt",
@@ -91,11 +89,8 @@
         },
         "name": "Wunschliste"
     },
-    "wishlist_add": "Zur Wunschliste hinzufügen",
     "gallery": "Galerie",
-    "wishlist_notification": "Wunschliste Benachrichtigung",
     "wishlist_remove": "Von Wunschliste entfernen",
-    "wishlist_notification_info": "Erhalte eine Benachrichtigung, wenn dein Wunschlistenartikel im Shop ist.",
     "purchase": {
         "restore": "Käufe wiederherstellen",
         "success": "Deine Bestellung wird bearbeitet. Ein Neustart der App ist erforderlich, um deine Vorteile zu sehen.",
