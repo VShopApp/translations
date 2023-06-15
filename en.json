@@ -92,7 +92,7 @@
             "name": "Wishlist Notification",
             "info": "Get a notication when your wishlisted item is in the shop.",
             "hit": "The {{displayname}} is in your shop!",
-            "no_hit": "No luck today: No wishlisted skin is in your shop.",
+            "no_hit": "No luck today: No wishlisted skins in your shop.",
             "error": "An error occurred while checking your shop",
             "enabled": "Notifications enabled",
             "disabled": "Notifications disabled",
