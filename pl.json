@@ -89,7 +89,7 @@
             "name": "Powiadomienie z listy życzeń",
             "info": "Otrzymaj powiadomienie, gdy przedmiot z listy życzeń znajdzie się w sklepie.",
             "hit": "{{displayname}} jest w Twoim sklepie!",
-            "no_hit": "Dzisiaj nie ma szczęścia: w Twoim sklepie nie ma żadnej skórki z listy życzeń.",
+            "no_hit": "Dzisiaj nie masz szczęścia: w Twoim sklepie nie ma żadnej skórki z listy życzeń.",
             "error": "Wystąpił błąd podczas sprawdzania Twojego sklepu",
             "enabled": "Powiadomienia włączone",
             "disabled": "Powiadomienia wyłączone",
